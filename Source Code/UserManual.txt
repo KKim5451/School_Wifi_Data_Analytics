@@ -1,0 +1,11 @@
+Once the application is up and running, the user can access the site with the following credentials:
+Username: nkakani
+Password: uncc
+
+This will bring the user to the main page of the application. On this page, there is a tree map that displays information on the selected day for each building. This tree map displays the total number of each type of user for each building. The user can hover, or click on each building in the tree map to view more information.
+
+The user can also change the selected day using the dropdown box near the top of the application. This will update the data that is being used to display the information. 
+
+The user can also choose to view a line graph by selecting "Line Graph." This line graph displays the number of people on campus during a specific range of time on a chosen day.
+
+For a more in depth guide on how the application is intended to be used, please see the Application Demo located in the screencast. 
