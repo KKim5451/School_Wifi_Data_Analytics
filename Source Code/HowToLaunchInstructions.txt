@@ -1,0 +1,25 @@
+HOW TO LAUNCH INSTRUCTIONS
+*Several packages and tools will need to be installed in order to run the application*
+
+Required Tools: 
+Anaconda - https://docs.anaconda.com/anaconda/install/ (this should come with most of the packages that are reuqired to run the project, like Jupyter Notebook, Plotly, etc.)
+
+After Anaconda has installed, you can open Anaconda Navigator, and launch Jupyter Notebook. In Jupyter Notebook, you can open the file included in the source code titled "main.ipynb"
+
+Now you will have to install several packages in order to get the application to run. The required packages can be seen in the import statements at the top of "main.ipynb." To find the appropriate commands needed to import the modules, a quick Google search can be done. For example, to install the correct module for "dash_bootstrap_components" you can search "install dash_bootstrap_components" in Google. The appropriate command to install the required module can be found there.
+
+Once all of the correct modules are installed, the first block of code will run with no errors. Now, you can run all other blocks of code following the first block. 
+
+The last line of code, "app.run_server(dev_tools_ui=False)" may say 
+"OSError: Address 'http://127.0.0.1:8050' already in use.
+    Try passing a different port to run_server."
+This is normal. If it gives this error, you can navigate to the local host port at http://127.0.0.1:8050 and the application should be running.
+
+The username for the application is: nkakani
+The password is: uncc
+
+I hope these instructions are detailed enough for you to get the application running. Please let us know if you have any trouble getting the application to run correctly, and we will do our best to help you as soon as possible. Thank you!
+
+
+
+
