@@ -1,0 +1,15 @@
+The user stories demonstrated in this application are... 
+Story 1: As a UNC Charlotte Faculty member, I should be able to access the website by logging in quickly and easily, so I can access the desired data as soon as possible.
+Acceptance Criteria - I can successfully login and access the website in a timely manner.
+
+Story 7: As a UNC Charlotte Faculty member, I should be able to view occupancy data from previous archived days so I can compare it to the present data.
+Acceptance Criteria - I can view data from previous days by choosing the date from a dropdown.
+
+Story 6: As a UNC Charlotte Faculty member, I should be able view changes in population during the course of the day so I can formulate better plans for emergency situations.
+Acceptance Criteria - I can see changes in occupancy in buildings as the day progresses through visualizations, such as a line graph.
+
+For a walkthrough on how these user stories were intended to be used, please see the Application Demo in the screencast of the presentation. 
+
+
+
+
